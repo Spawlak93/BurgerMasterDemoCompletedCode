@@ -1,0 +1,4 @@
+﻿namespace AsyncDemo
+{
+    class Burger { }
+}
